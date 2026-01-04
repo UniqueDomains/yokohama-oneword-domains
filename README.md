@@ -28,8 +28,8 @@ If you want to search & filters the complete database of [.YOKOHAMA one word dom
 | cxx.yokohama        | available | 60       | 9%     | 3      |           |         |         |
 | cxxv.yokohama       | available | 60       | 1%     | 4      |           |         |         |
 | cypher.yokohama     | available | 58       | 28%    | 6      |           |         |         |
-| dozen.yokohama      | available | 82       | 9%     | 5      |           |         |         |
-| eleven.yokohama     | available | 88       | 28%    | 6      |           |         |         |
+| dozen.yokohama      | available | 82       | 7%     | 5      |           |         |         |
+| eleven.yokohama     | available | 88       | 27%    | 6      |           |         |         |
 | eleventh.yokohama   | available | 62       | 5%     | 8      |           |         |         |
 | leash.yokohama      | available | 90       | 7%     | 5      |           |         |         |
 | nought.yokohama     | available | 92       | 97%    | 6      |           |         |         |
@@ -38,7 +38,7 @@ If you want to search & filters the complete database of [.YOKOHAMA one word dom
 | tenth.yokohama      | available | 116      | 7%     | 5      |           |         |         |
 | thirteen.yokohama   | available | 84       | 9%     | 8      |           |         |         |
 | threesome.yokohama  | available | 68       | 5%     | 9      |           |         |         |
-| trio.yokohama       | available | 80       | 19%    | 4      |           |         |         |
+| trio.yokohama       | available | 80       | 17%    | 4      |           |         |         |
 | twelfth.yokohama    | available | 58       | 2%     | 7      |           |         |         |
 | twelve.yokohama     | available | 88       | 16%    | 6      |           |         |         |
 | xii.yokohama        | available | 66       | 8%     | 3      |           |         |         |
@@ -83,7 +83,7 @@ If you want to search & filters the complete database of [.YOKOHAMA one word dom
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,896       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 64,845       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,711    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,598,419    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
